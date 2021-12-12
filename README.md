@@ -1,1 +1,3 @@
 # TicTacToe
+
+Simple Java application
